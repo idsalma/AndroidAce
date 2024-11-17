@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectAceSalma</string>
+    <string name="enter_solde">Enter Solde</string>
+    <string name="add_button">Add</string>
+    <string name="compte_header">Comptes Existants:</string>
+
+    <string-array name="format_options">
+        <item>JSON</item>
+        <item>XML</item>
+    </string-array>
+
+    <string-array name="account_types">
+        <item>CHECKING</item>
+        <item>SAVINGS</item>
+    </string-array>
+</resources>
